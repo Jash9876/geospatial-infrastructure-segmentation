@@ -1,12 +1,8 @@
-# README.md
-
----
-
 # Multi-Class Geospatial Semantic Segmentation using DeepLabV3+
 
 ## Infrastructure Mapping from Satellite Orthophotos using Deep Learning and GIS Integration
 
-![Stitched Reconstruction](assets/reconstruction/stitched.png)
+![Stitched Reconstruction](description.png)
 
 ---
 
